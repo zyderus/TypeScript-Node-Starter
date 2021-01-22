@@ -1,4 +1,4 @@
-# Zyderus mod
+# Zyderus modification
 
 # TypeScript Node Starter
 
