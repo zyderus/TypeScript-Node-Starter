@@ -1,6 +1,7 @@
-# Zyderus BIG LARGE BEER-LARGER MODIFICATION
-
 # TypeScript Node Starter
+### modified by Zyderus
+
+The goal of this fork is to update and simplify the repo so it will contain modern and beginner-friendly codebase for Node projects.
 
 The main purpose of this repository is to show a working Node.js API Server + front-end project and workflow for writing Node code in TypeScript.
 
